@@ -114,6 +114,10 @@ requests
 ::
 
 ```
+
+> 🧪 This screenshot shows the results of a test scan on `scanme.nmap.org`, which is provided by the Nmap team for public and legal security research and demonstration purposes. All findings are non-critical and part of expected test configurations.
+
+
 ![image](https://github.com/user-attachments/assets/b169bb34-47be-47df-ab12-a314b870647a)
 
 ![image](https://github.com/user-attachments/assets/772714a9-0721-4a2b-ba6a-0f32deb04a36)
